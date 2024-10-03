@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Karthikaa Kothandapani Portfolio</title>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+    />
+  </head>
+
+
+
+
+  <body>
+
+
+    <header class="portfolio-header">
+      <div class="name"><h1>Karthikaa Kothandapani</h1></div>
+      <div class="image">
+        <img class="photo" src="https://media.licdn.com/dms/image/v2/D5603AQHMZrRlM8rtIw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1668874962862?e=1733356800&v=beta&t=PzhyHAlgN4wCOEyAYvi2-ABRbwoAaMxu35r0wm1EZhA" alt="photo" />
+      </div>
+
+
+      <nav class="navbar" id="navbar">
+      <ul>
+        <li><a href="#profile">About</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#achievements">Achievements</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    </header>
+
+
+
+
+    <main>
+      <div class="background-container">
+    <div class="scenery">
+      <div class="sky"></div>
+      <div class="sand"></div>
+      <div class="waves1">
+        <div class="w1"></div>
+        <div></div>
+        <div class="w1"></div>
+        <div></div>
+        <div class="w1"></div>
+        <div></div>
+        <div class="w1"></div>
+        <div></div>
+        <div class="w1"></div>
+        <div></div>
+        <div class="w1"></div>
+        <div></div>
+        <div class="w1"></div>
+        <div></div>
+        <div class="w1"></div>
+        <div></div>
+        <div class="w1"></div>
+        <div></div>
+        <div class="w1"></div>
+      </div>
+
+
+
+
+      <div class="waves2">
+        <div class="w2"></div>
+        <div></div>
+        <div class="w2"></div>
+        <div></div>
+        <div class="w2"></div>
+        <div></div>
+        <div class="w2"></div>
+        <div></div>
+        <div class="w2"></div>
+        <div></div>
+        <div class="w2"></div>
+        <div></div>
+        <div class="w2"></div>
+        <div></div>
+        <div class="w2"></div>
+        <div></div>
+        <div class="w2"></div>
+        <div></div>
+        <div class="w2"></div>
+      </div>
+
+
+
+
+
+
+
+
+      <div class="waves3">
+        <div class="w3"></div>
+        <div></div>
+        <div class="w3"></div>
+        <div></div>
+        <div class="w3"></div>
+        <div></div>
+        <div class="w3"></div>
+        <div></div>
+        <div class="w3"></div>
+        <div></div>
+        <div class="w3"></div>
+        <div></div>
+        <div class="w3"></div>
+        <div></div>
+        <div class="w3"></div>
+        <div></div>
+        <div class="w3"></div>
+        <div></div>
+        <div class="w3"></div>
+      </div>
+
+
+
+
+      <div class="left-mountain"></div>
+    <div class="back-mountain"></div>
+
+
+
+
+
+
+  <div class="bird1">
+    <div class="bird1-wing"></div>
+    <div class="bird1-wing"></div>
+  </div>
+
+
+
+
+
+
+
+
+    <div class="bird2">
+      <div class="bird2-wing"></div>
+      <div class="bird2-wing"></div>
+    </div>
+
+
+
+
+      <div class="tree1">
+        <div class="tree1-stem"></div>
+        <div class="leaf1"></div>
+        <div class="leaf1"></div>
+        <div class="leaf1"></div>
+        <div class="leaf1"></div>
+        <div class="leaf1"></div>
+        </div>
+
+
+
+
+      <div class="tree1">
+        <div class="tree2-stem"></div>
+        <div class="leaf2"></div>
+        <div class="leaf2"></div>
+        <div class="leaf2"></div>
+        <div class="leaf2"></div>
+        <div class="leaf2"></div>
+    </div>
+
+
+
+
+    <div class="tree2">
+        <div class="leaf3"></div>
+        <div class="leaf3"></div>
+        <div class="leaf3"></div>
+        <div class="leaf3"></div>
+        </div>
+
+
+
+
+      <div class="tree2">
+        <div class="leaf4"></div>
+        <div class="leaf4"></div>
+        <div class="leaf4"></div>
+        <div class="leaf4"></div>
+    </div>
+    
+    <div class="penguin">
+      <div class="penguin-head">
+        <div class="face left"></div>
+        <div class="face right"></div>
+        <div class="chin"></div>
+        <div class="eye left">
+          <div class="eye-lid"></div>
+        </div>
+        <div class="eye right">
+          <div class="eye-lid"></div>
+        </div>
+        <div class="blush left"></div>
+        <div class="blush right"></div>
+        <div class="beak top"></div>
+        <div class="beak bottom"></div>
+      </div>
+      <div class="penguin-body">
+        <div class="arm left"></div>
+        <div class="arm right"></div>
+        <div class="foot left"></div>
+        <div class="foot right"></div>
+      </div>
+      </div>
+      </div>
+      </div>
+
+
+
+
+    <section class="content">
+
+
+      <section id="welcome-section" class="welcome-section">
+        <h1 class="welcome-note">Hey, I am <snap class="name-color">Karthikaa Kothandapani.</snap></h1>
+        <p class="welcome-para">An Engineer: "Crafting innovation, one blueprint at a time."</p>
+      </section>
+
+
+
+
+    <section id="profile" class="profile">
+      <h1 class="about heading">About</h1>
+      <h4 class="about">Name: <snap class="acolor"> Karthikaa Kothandapani</snap></h4>
+      <h4 class="about">Education: <snap class="acolor">B.E. Electronics and Communication Engineering</snap></h4>
+      <h4 class="about">College: <snap class="acolor">Rajalakshmi Engineering College</snap></h4>
+      <h4 class="about">Year: <snap class="acolor">2020 - 2024</snap></h4>
+      <h4 class="about">Work-Experience: <snap class="acolor">6 Months</snap></h4>
+      <h4 class="about last">CGPA: <snap class="acolor">8.7<br/></snap></h4>     
+    </section>
+
+
+    <section id="experience" class="experience">
+      <h1 class="exp heading">Experience</h1>
+
+
+      <div class="exp1">
+        <h2 class="exp role">Graduate Engineer Trainee</h2>
+        <h3 class="exp comp">Bharat FIH, A Foxconn Group of Companies</h3>
+        <h4 class="exp duration">April, 2024 to September 2024</h4>
+        <h3 class="exp desi">
+          Technical Project Manager
+        </h3>
+        <h3 class="exp pro">iPhone Project</h3>
+        
+         <ul>
+           <li class="exp bfih1">Served as a Technical Project Management in the department of OSS for the iPhone manufacturing.</li>
+           <li class="exp bfih1">Handled the technical datasheet and training of 300+ employees.</li>
+           <li class="exp bfih1">Presented everyday followups.</li>
+           <li class="exp bfih1">The experience in this project has enhanced my Problem-solving, Analytical, Management, and Decision-making skills.</li>
+           <li class="exp bfih1">I have gained knowledge on Data Analysis and Business Intelligence.</li>
+         </ul>
+
+
+        <h3 class="exp pro">Google Pixel Project</h3>
+          <ul>
+            <li class="exp bfih2">Have been a Sustain Technical Project Manager support at the Google pixel production.</li>
+            <li class="exp bfih2">
+              My key responsibility is to reduce the failure rate of the device.
+            </li>
+            <li class="exp bfih2">
+              We incorporated various data analytical techniques and other field works to derive an insightful solution to the causes of failure and formulated technical and business solutions to enhance production.
+            </li>
+            <li class="exp bfih2">The journey involved dealing with customers on a daily basis, learning the whole manufacturing unit, design aspects of mobile and various aspects of technical and business management.</li>
+          </ul>
+
+
+      </div>
+
+
+      <div class="exp2">
+      <h2 class="exp role">Data Science Intern</h2>
+      <h3 class="exp comp">Shiash Info Tech</h3>
+      <h4 class="exp duration">July 2024 to Present</h4>
+        <ul>
+<li class="exp shiash">Assisted in data analysis and model development using Python and machine learning techniques.<br /></li>
+<li class="exp shiash">Worked on data preprocessing, cleaning, and visualization to support business insights.<br /></li>
+<li class="exp shiash">Collaborated with teams to implement solutions and improve data workflows.<br/></li>
+</ul>
+      </div>
+
+
+      <div class=" exp3">
+        <h2 class="exp role">President</h2>
+        <h3 class="exp comp">Entrepreneurship Development Cell, REC</h3>
+        <ul>
+          <li class="exp edc" >I held the responsibility of representing REC's Entrepreneurship Development Cell as the President for the academic year 2023-2024.</li>
+          <li class="exp edc">I also served as the secretary for the academic year 2022-2023 in my total 3 years at EDC.</li>
+          <li class="exp edc">I along with my team have organized various events, workshops, seminars etc. with the vision of igniting the entrepreneurial spark and converting ideas into products.</li>
+          <li class="exp edc">I have represented the cell in various public forums and International stages developing netwoks.</li>
+          <li class="exp edc">The journey was a complete roller coaster that took me from the college stage to the International dias. It made me believe that dedication and a like-minded team could create miracles. </li>
+        </ul>
+      </div>
+
+
+    </section>
+
+
+
+
+    <section id="projects" class="projects">
+      <h1 class="project heading">Projects</h1>
+      
+      <div class="project1">
+        <h3 class="project1 comp">Dangling of Wires</h3>
+        <h3 class=" project1 pro project-tile">A CMS to prevent dangling of wires using flex sensors</h3>
+        <ul>
+           <li class="project1 wires">
+            The Project has won the BEST PROJECT AWARD.
+          </li>
+          <li class="project1 wires">
+            It is a Central Monitoring System that triggers alerts when the wire hangs below a certain threshold using flex sensors at the poles.
+          </li>
+        </ul>
+
+
+  <h3 class="project1 side-head">
+ Working
+</h3>
+      <ul>
+        <li class="project1 wires"><snap ="color-change">Flex Sensors:</snap> Flex sensors are installed on poles, wires, or other structures to monitor the angle or bending of wires. These sensors detect when the wires hang below a specific threshold. </li>
+        <li class="project1 wires"><snap ="color-change">Signal Detection:</snap> When the wire bends or sags beyond the pre-set threshold (due to factors like wind, wear, or weight), the flex sensor sends a signal to the central monitoring unit.</li>
+        <li class="project1 wires"><snap ="color-change">Central Monitoring System (CMS):</snap> The CMS processes the data from the flex sensors and compares the sensor readings with pre-determined safety limits. If the readings indicate that a wire is hanging below the safe threshold, the system triggers an alert.</li>
+        <li class="project1 wires"><snap ="color-change">Alerts and Notifications:</snap> Once the CMS detects that a wire is hanging dangerously low, it sends out alerts. These can be in the form of alarms, notifications to maintenance personnel, or even automated messages to the responsible authorities.</li>
+        <li class="project1 wires"><snap ="color-change">Maintenance Response:</snap> The system allows for real-time monitoring, so maintenance teams can be dispatched to the location where the issue is detected, preventing accidents or damage before they occur.</li>
+      </ul>
+
+
+    <h3 class="project1 side-head">
+ Features
+</h3>  
+
+
+      <ul>
+        <li class="project1 wires"><snap ="color-change">Cost-Effective Solution:</snap> The system uses simple flex sensors and a centralized monitoring unit, making it affordable and easy to install across large networks, such as public electric poles or industrial settings.</li>
+        <li class="project1 wires"><snap ="color-change">Real-Time Monitoring:</snap> Constant monitoring of wires allows for immediate detection of any dangling issues, ensuring safety and quick response.</li>
+        <li class="project1 wires"><snap ="color-change">Wide Application:</snap> Can be used in various sectors like public electric poles, industrial equipment, or anywhere wire management is critical, offering flexibility in its use.</li>
+        <li class="project1 wires"><snap ="color-change">Automated Alerts:</snap> The CMS can be programmed to send notifications or warnings to designated personnel, reducing the need for manual inspection.
+</li>
+        <li class="project1 wires"><snap ="color-change">Preventative Maintenance:</snap> The system helps in proactive maintenance, reducing the likelihood of wire-related damages or accidents by catching issues early.</li>
+        <li class="project1 wires"><snap ="color-change">Easy Integration:</snap> Can be integrated into existing infrastructure with minimal modifications, making it suitable for widespread adoption.</li>
+      </ul>
+
+
+      </div>
+
+
+      <div class="project2">
+        <h3 class="project2 comp">
+          Multi-Axis Robotic Arm
+        </h3>
+        <h3 class="project2 pro">
+          A Three-axis Robotic Arm using servos
+        </h3>
+        <ul>
+          <li class="project2 robo">
+            The porject has won BEST PROJECT AWARD in MICRO 2022.
+          </li>
+          <li class="project2 robo">
+            The three-axis robotic arm project involves designing a robotic arm with three degrees of freedom, controlled using potentiometers and servo motors, with an Arduino Nano serving as the control unit.
+          </li>
+        </ul>
+
+
+<h3 class="project2 side-head">
+ Working
+</h3>
+        <ul>
+        <li class="project2 robo">
+        <snap class="color-change">  Input Control:</snap> The user controls the movement of the robotic arm by adjusting the potentiometers. The rotation of each potentiometer generates an analog signal corresponding to the desired angle of movement.
+        </li>
+        <li class="project2 robo">
+         <snap class="color-change"> Signal Processing:</snap> The Arduino Nano reads the input from the potentiometers and translates it into a signal for the corresponding servo motor. Each potentiometer controls one servo motor, which moves a part of the robotic arm.
+        </li>
+        <li class="project2 robo">
+         <snap class="color-change"> Servo Motor Movement:</snap> The servo motors rotate according to the input from the potentiometers, moving the arm in three-dimensional space (X, Y, Z). The precise movements allow the arm to perform tasks like picking up and placing objects.
+        </li>
+        </ul>
+
+
+        <h3 class="project2 side-head">
+ Features
+</h3>
+
+
+<ul>
+  <li class="project2 robo"><snap class="color-change">Three-Axis Movement:</snap> The arm can move in three dimensions, making it versatile for various tasks.</li>
+  <li class="project2 robo">
+    <snap class="color-change">Precise Control:</snap> The potentiometers provide real-time, fine-tuned control over the robotic arm’s movement, ensuring smooth and accurate positioning.
+  </li>
+  <li class="project2 robo"><snap class="color-change">Compact Design:</snap> Using an Arduino Nano keeps the overall design small and efficient. </li>
+</ul>
+      </div>
+
+
+      <div class="project3">
+        <h3 class="project3 comp">
+          Diagnosis using Machine Learning
+        </h3>
+        <h3 class="project3 pro">
+          Early Diagnosis of Parkinson's Disease Using Random Forest Classifier
+        </h3>
+
+
+        <ul>
+          <li class="project3 ml">
+            The Research Paper has been presented at an IEEE conference.
+          </li>
+          <li class="project3 ml">
+            A webpage has been created for the user-friendly prediction model where output is expressed in various data visualization models.
+          </li>
+        </ul>
+
+
+        <h3 class="project3 side-head">
+ Working
+</h3>
+
+
+        <ul>
+          <li class="project3 ml"><snap class="color-change">Data:</snap> The dataset consists of speech recordings from both PD patients and healthy individuals.</li>
+          <li class="project3 ml"><snap ="color-change">Steps:</snap> The model involves Data pre-processing, Model-training, Model-evaluation, and Model-prediction</li>
+        </ul>
+
+
+
+
+        <h3 class="project3 side-head">
+ Features
+</h3>
+
+
+        <ul>
+          <li class="project3 ml"><snap class="color-change">High Accuracy (96%):</snap> The model shows high classification accuracy, meaning it can reliably distinguish between PD patients and healthy individuals.</li>
+          <li class="project3 ml"><snap class="color-change">Early Diagnosis:</snap> By analyzing subtle speech changes, the model helps in the early detection of Parkinson's Disease, even before more apparent symptoms emerge.</li>
+          <li class="project3 ml"><snap class="color-change">Non-Invasive Diagnosis:</snap> This model relies solely on speech parameters, making the diagnostic process non-invasive compared to other medical tests (e.g., MRI or blood tests).</li>
+          <li class="project3 ml"><snap class="color-change">Efficient Processing:</snap> The Random Forest Classifier is computationally efficient and can handle large datasets with multiple features without significant performance degradation.</li>
+          <li class="project3 ml"><snap class="color-change">Robust to Overfitting:</snap> The ensemble nature of Random Forest reduces the risk of overfitting by combining the results of multiple decision trees, making the model more generalized for unseen data.</li>
+          <li class="project3 ml"><snap class="color-change">Feature Importance:</snap> The Random Forest Classifier can rank the importance of each speech parameter, offering insights into which features (e.g., jitter, shimmer) are most indicative of Parkinson’s Disease.</li>
+          <li class="project3 ml"><snap class="color-change">Scalability:</snap> The model can be easily expanded to include more data and additional features, making it adaptable to larger and more complex datasets.</li>
+        </ul>
+        </div>
+
+
+        <div class="project4">
+        <h3 class="project4 comp">
+          Virtual Reality Application
+        </h3>
+        <h3 class="project4 pro">
+          Development of Virtual Reality Application for Classroom Learning
+        </h3>
+
+
+        <ul>
+          <li class="project4 vr">The project has been recognized as top 100 Projects by the TN Government's Naan Mudhalvan Niral Thiruvizha.</li>
+          <li class="project4 vr">The project involves the development of a gamified environment for learning purposes.</li>
+        </ul>
+
+
+        <h3 class="project4 side-head">
+ Working
+</h3>
+        <ul>
+          <li class="project4 vr"><snap class="color-change">Tools used:</snap> Unity3D, Blender, Google VR - DayDream View</li>
+          <li class="project4 vr">An immersive 3D engaging environment to learn and develop knowledge on various modules.</li>
+        </ul>
+
+
+        <ul>
+          <li class="project4 vr"><snap class="color-change">Gamified Learning Experience:</snap> Lessons are designed as interactive games, which makes the learning process engaging and encourages student participation.
+</li>
+          <li class="project4 vr"><snap class="color-change">Immersive Education:</snap> By placing students in a 3D environment, the application enhances comprehension through visualization and real-time interaction with educational content.</li>
+          <li class="project4 vr"><snap class="color-change">Collaborative Learning:</snap> Students can interact with each other in the virtual space, fostering teamwork and social learning in a fun, immersive way.</li>
+          <li class="project4 vr"><snap class="color-change">Real-Time Assessment:</snap> Built-in assessment tools allow for real-time evaluation of students' understanding and progress through quizzes, challenges, and performance in the virtual environment.</li>
+          <li class="project4 vr"><snap class="color-change">Accessibility:</snap> VR provides an inclusive learning experience, allowing students with different learning styles (visual, auditory, kinesthetic) to benefit from an engaging and interactive way of absorbing information.</li>
+        </ul>
+        </div>
+
+
+    <div class="project5">
+        <h3 class="project5 comp">
+          Internet of Things
+        </h3>
+        <h3 class="project5 pro">
+          Various IoT Projects
+        </h3>
+
+
+          <p class="project5 iot">
+            Home Automation uses different types of sensors, Thingspeak, and ESP32.
+          </p>
+          </div>
+
+
+        <div class="project6">
+        <h3 class="project6 comp">
+          Game Development
+        </h3>
+        <h3 class="project6 pro">
+         <a href="https://www.linkedin.com/posts/karthikaa-kothandapani_unity-unity-gamedevelopment-activity-7158492896160018432-JATw?utm_source=share&utm_medium=member_desktop" id="project-link"> Various 2D and 3D Game development</a>
+        </h3>
+
+
+          <p class="project6 gamedev">
+            With the keen interest on development, I have developed few 2D and 3D games using Unity Game Engine. The platform has been great for self taught beginers.
+          </p>
+          </div>
+
+
+          <div class="project7">
+        <h3 class="project7 comp">
+          Web Design
+        </h3>
+        <h3 class="project7 pro">
+          Responsive Web Design
+        </h3>
+
+
+          <p class="project7 webdesign">
+            I have been learning web design for a while and has comeup with various projects like creation of forms, quiz, paintings, canvas, labels, menu, portfolio etc.
+            <br/>
+            <br/>
+          </p>
+
+
+
+
+        </div>
+        
+    </section>
+
+
+
+
+    <section id="skills" class="skills">
+      <h1 class="skills heading">Key Skills</h1>
+      <ul>
+        <li class="skill">Programming Languages: C, Python</li>
+        <li class="skill">Unity3D Game Engine</li>
+        <li class="skill">Game Development</li>
+        <li class="skill">HTML, CSS</li>
+        <li class="skill">PEGA-CSA</li>
+        <li class="skill">Project Management</li>
+        <li class="skill">IoT, Machine Learning</li>
+        <br/>
+        <br/>
+      </ul>
+
+
+    </section>
+
+
+
+
+    <section id="achievements" class="achievements">
+      <h1 class="awards heading">Achievements</h1>
+      <div class="awards aerodesign">
+        <h3 class="awards role">
+          SAE 2022 - AIR 20
+        </h3>
+        <h3 class="awards pro">
+          SAE AERO DESIGN CHALLENGE 2022
+        </h3>
+        <p class="awards sae">
+          we, a team of seven developed a RC Plane with dual motors. The plane can carry a payload higher than its own weight.
+          With a cruicial hardwork of 3 months by the team, we successfull achieved a functional model with high payload fraction.
+          I have mainly taken care of the fuselage design and modelling.
+          The journey was a complete roller coaster with lots of ups and downs with great learnings.
+        </p>
+        </div>
+
+
+     <div class="awards books">
+       <h3 class="awards role">
+          Co-Author
+        </h3>
+        <h3 class="awards pro">
+          Yearnings of Her Soul
+        </h3>
+        <p class="awards book">I am glad to showcase my first book as a co-author, "Yearnings of Her Soul". The book has covered varied life aspects of a women.
+        </p>
+     </div>
+
+
+     <div class="awards poems">
+       <h3 class="awards role">
+          Recoganized by TGIWC
+        </h3>
+        <h3 class="awards pro">
+          Mirakee: World’s Largest Anthology
+        </h3>
+        <p class="awards poem">
+          My Poem has been shortlisted by The Great Indian Writers Community and has been published in the book, Mirakee: World’s Largest Anthology. And has been certified with a letter of recommendation.
+        </p>
+        <br/>
+        <br/>
+     </div>
+
+
+    </section>
+
+
+
+
+
+
+    <section id="contact" class="contact">
+      <h2 class="connect">"Let's team up and create something amazing together!"</h2>
+      <h3 class="email">kokarthikaapani@gmail.com</h3>
+
+
+      <div class="social-icons"
+     <a href="https://www.linkedin.com/school/free-code-camp/">
+           <a id="profile-link" class="profile-link" target="_blank" href="www.linkedin.com/in/karthikaa-kothandapani"><i class="fab fa-linkedin-in icon"></i> <h2 class="profile-name">Karthikaa Kothandapani</h2></a>
+            </div>
+      <br/>
+      <br />
+    </section>
+
+
+
+
+    </section>
+
+
+
+
+  </main>
+  </body>
+
+
+
+
+  <footer class="copyrights">
+    <h3 class="creator">Designed and Created by <snap class="clr">Karthikaa Kothandapani</snap></h3>
+  </footer>
+
+
+
+
+</html>
